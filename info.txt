@@ -1,0 +1,10 @@
+Datos Registrados
+-----------------
+Nombre y Apellido.......:Noe Valencia
+Género..................:Masculino
+Edad..............:Mayor de edad
+Datos Registrados
+-----------------
+Nombre y Apellido.......: Noe Valencia
+Género..................: Masculino
+Edad....................: Mayor de edad
